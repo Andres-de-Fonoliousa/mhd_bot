@@ -1,0 +1,30 @@
+{
+  "categories": {
+    "free_fire_gems": [
+      {"id": "ff_100", "name": "100 + 10 FreeFire", "source_price": 129},
+      {"id": "ff_210", "name": "210 + 21 FreeFire", "source_price": 259},
+      {"id": "ff_530", "name": "530 + 53 FreeFire", "source_price": 645},
+      {"id": "ff_1080", "name": "1080 + 108 FreeFire", "source_price": 1290},
+      {"id": "ff_2200", "name": "2200 + 220 FreeFire", "source_price": 2580},
+      {"id": "ff_4400", "name": "4400 + 440 FreeFire", "source_price": 5160}
+    ],
+    "pubg_uc": [
+      {"id": "pubg_60", "name": "60 شدة", "source_price": 123},
+      {"id": "pubg_325", "name": "325 شدة", "source_price": 624},
+      {"id": "pubg_660", "name": "660 شدة", "source_price": 1235},
+      {"id": "pubg_1800", "name": "1800 شدة", "source_price": 3178},
+      {"id": "pubg_3850", "name": "3850 شدة", "source_price": 6208},
+      {"id": "pubg_8100", "name": "8100 شدة", "source_price": 11999}
+    ],
+    "free_fire_subs": [
+      {"id": "ff_sub_monthly", "name": "عضوية شهرية", "source_price": 1562},
+      {"id": "ff_sub_weekly", "name": "عضوية أسبوعية", "source_price": 322},
+      {"id": "ff_lvl_6", "name": "حزمة ترقية المستوى 6", "source_price": 50},
+      {"id": "ff_lvl_10", "name": "حزمة ترقية المستوى 10", "source_price": 84},
+      {"id": "ff_lvl_15", "name": "حزمة ترقية المستوى 15", "source_price": 84},
+      {"id": "ff_lvl_20", "name": "حزمة ترقية المستوى 20", "source_price": 84},
+      {"id": "ff_lvl_25", "name": "حزمة ترقية المستوى 25", "source_price": 84},
+      {"id": "ff_lvl_30", "name": "حزمة ترقية المستوى 30", "source_price": 136}
+    ]
+  }
+}
